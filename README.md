@@ -78,3 +78,8 @@ claude
 | 模型更新 | 自动同步 | — | 手动 |
 
 如果你正在寻找一个 **低价、稳定、高并发、好上手** 的 Claude Code 包月方案，欢迎访问官网了解：**https://www.kingflow.ai**
+
+
+---
+
+> 📖 **更完整的图文版与更多教程**：https://yemao-dev.github.io/claude-code-max/ ｜ 全部方案合集：https://yemao-dev.github.io/ ｜ 官网：https://www.kingflow.ai
